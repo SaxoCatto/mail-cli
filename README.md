@@ -15,4 +15,4 @@ Start client by specifiying server's IP and server's listening port `./client [i
 # Branches
 - Main one kinda broken at time of writing this 'README.md'. A workaround is `-fpermissive`
 (or just do a dry run with gcc then patch it)
-- `without -fpemissive` is another branch that should be functional in Linux and C17 GCC. Unless I suck
+- `without -fpemissive` is another branch that should be functional in Linux and C17 GCC. Unless I suck (I really do). I will patch it eventually.
